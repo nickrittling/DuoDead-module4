@@ -1,0 +1,66 @@
+[
+		{
+			"oe_word":"hlaf",
+			"correct":"bread",
+			"incorrect": ["wrong","wrong","wrong"],
+			"tags":"food, singular, nominative",
+			"image":"bread",
+			"audio":"../lesson_audio/hlaf.mp3"
+		},
+		{
+			"oe_word":"wæstm",
+			"correct":"fruit",
+			"incorrect": ["wrong","wrong","wrong"],
+			"tags":"food, singular, nominative",
+			"image":"fruit",
+			"audio":"../lesson_audio/wæstm.mp3"
+		},
+		{
+			"oe_word":"berġan",
+			"correct":"berries",
+			"incorrect": ["wrong","wrong","wrong"],
+			"tags":"food, plural, nominative",
+			"image":"berries",
+			"audio":"../lesson_audio/berġan.mp3"
+		},
+		{
+			"oe_word":"butere",
+			"correct":"butter",
+			"incorrect": ["wrong","wrong","wrong"],
+			"tags":"food, singular, nominative",
+			"image":"butter",
+			"audio":"../lesson_audio/butere.mp3"
+		},
+		{
+			"oe_word":"honig",
+			"correct":"honey",
+			"incorrect": ["wrong","wrong","wrong"],
+			"tags":"food, singular, nominative",
+			"image":"honey",
+			"audio":"../lesson_audio/honig.mp3"
+		},
+		{
+			"oe_word":"flæsc",
+			"correct":"meat",
+			"incorrect": ["wrong","wrong","wrong"],
+			"tags":"food, singular, nominative",
+			"image":"meat",
+			"audio":"../lesson_audio/flæsc.mp3"
+		},
+		{
+			"oe_word":"ciepe",
+			"correct":"onion",
+			"incorrect": ["wrong","wrong","wrong"],
+			"tags":"food, singular, nominative",
+			"image":"onion",
+			"audio":"../lesson_audio/ciepe.mp3"
+		},
+		{
+			"oe_word":"hwæte",
+			"correct":"wheat",
+			"incorrect": ["wrong","wrong","wrong"],
+			"tags":"food, singular, nominative",
+			"image":"wheat",
+			"audio":"../lesson_audio/hwæte.mp3"
+		}
+	]
